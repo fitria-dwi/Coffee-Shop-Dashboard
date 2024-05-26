@@ -18,13 +18,12 @@ This project aims to drive sales growth by:
 * **Source**: Data obtained from the Business Intelligence Courses at Rakamin Academy, which includes transactional, customer, staff, product, and outlet data.
 * **Actions**: Ensuring high-quality data for accurate analysis.
 
-#### <code style="color : darkpurple">Exploratory Data Analysis (EDA)</code>
+#### <code style="color : darkpurple">Data Visualization</code>
 * **Purpose**: Discover patterns, spot anomalies, and gain a deeper understanding of the data's characteristics.
-* **Techniques**: Visualization, summary statistics, and correlation analysis.
+* **Techniques**: summary statistics, descriptive statistics, and correlation analysis.
 
 #### <code style="color : darkpurple">Dashboard Creation</code>
 * **Purpose**: Present data in a clear and approachable way to facilitate decision-making.
-* **Approach**: 5 algorithms were evaluated to determine the best prediction model.
 
 #### <code style="color : darkpurple">Tools</code>
 * **Database Management**: PostgreSQL for storing and querying data.
