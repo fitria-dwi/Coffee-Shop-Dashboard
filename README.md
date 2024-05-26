@@ -1,4 +1,4 @@
-# Coffe Shop Dashboard
+# Coffee Shop Dashboard
 
 _Created by Fitria Dwi Wulandari – October, 2022_
 
